@@ -4,7 +4,3 @@ nbinteract
 cartopy
 metpy
 matplotlib
-View.py
-Model.py
-Plotconfiguration.py
-
