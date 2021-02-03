@@ -1,6 +1,0 @@
-numpy
-ipywidgets
-nbinteract
-cartopy
-metpy
-matplotlib
