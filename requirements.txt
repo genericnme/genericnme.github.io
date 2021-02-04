@@ -1,3 +1,6 @@
 numpy
 ipywidgets
 nbinteract
+matplotlib
+cartopy
+metpy
